@@ -1,0 +1,8 @@
+{
+  "name": "Lucky Tab",
+  "creator": "fishergirlana",
+  "version": "1.0.0",
+  "description": "67",
+  "entry": "index.js",
+  "requires": ["Renderer", "World", "ChatLib", "Tessellator", "requestV2", "PromiseV2"]
+}
