@@ -1,8 +1,8 @@
 {
-  "name": "Lucky Tab",
+  "name": "LBGTQIA",
   "creator": "fishergirlana",
   "version": "1.0.0",
-  "description": "67",
+  "description": "Lucky Blocks Gameplay Tab Querying Informational Add-on ",
   "entry": "index.js",
   "requires": ["Renderer", "World", "ChatLib", "Tessellator", "requestV2", "PromiseV2"]
 }
