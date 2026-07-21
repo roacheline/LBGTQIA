@@ -1,4 +1,4 @@
-// Lucky Tab Module
+// Lucky Blocks Gameplay Tab Querying Informational Add-on Module
 // Made by fishergirlana
 
 import request from "requestV2";
